@@ -1,2 +1,2 @@
-# poc-cypress-flowcast
-Proof of concept for Flowcast
+# poc-cypress
+Proof of concept
