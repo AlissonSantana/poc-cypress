@@ -1,0 +1,22 @@
+{
+  "name": "FlowCast",
+  "version": "1.0.0",
+  "description": "FlowCast",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlissonSantana/poc-cypress"
+  },
+  "author": "Alisson Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlissonSantana/poc-cypress/issues"
+  },
+  "homepage": "https://github.com/AlissonSantana/poc-cypress#readme",
+  "keywords": [],
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.5.0",
+    "cypress": "7.0.0"
+  }
+}
